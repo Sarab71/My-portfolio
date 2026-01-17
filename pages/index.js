@@ -92,7 +92,7 @@ function Home() {
             <pre className="text-[12px] md:text-3xl smallv:text-[18px] small:text-2xl my-5 font-semibold ">
               {JSON.stringify({
                 Name: 'Sarabnoor singh',
-                Age: '20',
+                Age: '22',
                 Gender: 'Male',
                 Country: 'India'
               }, null, 2)}
