@@ -72,9 +72,11 @@ function Home() {
             <div className="text-right">
               <h1 className="text-2xl font-bold mt-3 md:mt-0">Back end and DB</h1>
               <hr />
-              <p className=" text-xl font-bold mt-2">Node JS</p>
-              <p className=" text-xl font-bold mt-2">Next JS</p>
+              <p className=" text-xl font-bold mt-2">Node.js</p>
+              <p className=" text-xl font-bold mt-2">Java Spring Boot</p>
               <p className=" text-xl font-bold mt-2">Mongo DB</p>
+              <p className=" text-xl font-bold mt-2">Docker</p>
+              <p className=" text-xl font-bold mt-2">JWT</p>
             </div>
           </div>
         </div>
