@@ -56,25 +56,27 @@ function Home() {
           </div>
           <div className="stack grid grid-cols-1 md:grid-cols-3 p-5 ">
             <div className="text-left">
-              <h1 className="text-2xl font-bold">Front End</h1>
+              <h1 className="text-2xl font-bold">Front End & UI/UX</h1>
               <hr />
               <p className=" text-xl font-bold mt-2">HTML/CSS</p>
               <p className=" text-xl font-bold mt-2">Javascript</p>
               <p className=" text-xl font-bold mt-2">React</p>
-              <p className=" text-xl font-bold mt-2">Next JS</p>
-            </div>
-            <div className="text-center">
-              <h1 className="text-2xl font-bold mt-3 md:mt-0">UI/UX</h1>
-              <hr />
+              <p className=" text-xl font-bold mt-2">Next.js</p>
               <p className=" text-xl font-bold mt-2">Bootstrap</p>
               <p className=" text-xl font-bold mt-2">Tailwind CSS</p>
             </div>
+            <div className="text-center">
+              <h1 className="text-2xl font-bold mt-3 md:mt-0">DB</h1>
+              <hr />
+              <p className=" text-xl font-bold mt-2">MySQL</p>
+              <p className=" text-xl font-bold mt-2">MongoDB</p>
+              <p className=" text-xl font-bold mt-2">postgreSQL</p>
+            </div>
             <div className="text-right">
-              <h1 className="text-2xl font-bold mt-3 md:mt-0">Back end and DB</h1>
+              <h1 className="text-2xl font-bold mt-3 md:mt-0">Back End</h1>
               <hr />
               <p className=" text-xl font-bold mt-2">Node.js</p>
               <p className=" text-xl font-bold mt-2">Java Spring Boot</p>
-              <p className=" text-xl font-bold mt-2">Mongo DB</p>
               <p className=" text-xl font-bold mt-2">Docker</p>
               <p className=" text-xl font-bold mt-2">JWT</p>
             </div>
